@@ -1,2 +1,2 @@
 # -Ariel_jay
-This i for learning purpose
+This is for learning purpose
